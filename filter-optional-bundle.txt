@@ -1,1 +1,6 @@
+! Title: Rosey's optional filter bundle
+! Last modified: %timestamp%
+! Expires: 7 days
+! Description: An extension of Rosey's filter bundle
+
 !#include https://github.com/uBlockOrigin/uAssets/raw/master/filters/ubo-link-shorteners.txt

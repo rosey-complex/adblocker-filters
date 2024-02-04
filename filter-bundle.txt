@@ -1,3 +1,8 @@
+! Title: Rosey's filter bundle
+! Last modified: %timestamp%
+! Expires: 7 days
+! Description: Bundle of multiple ad-blocking filters
+
 !#include https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
 !#include https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters-mobile.txt
 !#include https://github.com/uBlockOrigin/uAssets/raw/master/filters/annoyances-cookies.txt
