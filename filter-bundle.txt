@@ -1,0 +1,11 @@
+!#include https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
+!#include https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters-mobile.txt
+!#include https://github.com/uBlockOrigin/uAssets/raw/master/filters/annoyances-cookies.txt
+!#include https://github.com/uBlockOrigin/uAssets/raw/master/filters/annoyances-others.txt
+!#include https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt
+!#include https://github.com/AdguardTeam/AdguardFilters/raw/master/SpywareFilter/sections/tracking_servers.txt
+!#include https://github.com/AdguardTeam/AdguardFilters/raw/master/BaseFilter/sections/adservers.txt
+!#include https://github.com/AdguardTeam/AdguardFilters/raw/master/AnnoyancesFilter/Other/sections/self-promo.txt
+!#include https://github.com/AdguardTeam/AdguardFilters/raw/master/BaseFilter/sections/cryptominers.txt
+!#include https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
+!#include https://github.com/AdguardTeam/AdguardFilters/raw/master/AnnoyancesFilter/Popups/sections/antiadblock.txt

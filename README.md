@@ -1,6 +1,6 @@
 # This is a set of links to filters that you can use with ad-blocking solutions that allow custom filters like Vivaldi's ad-blocker.
 
-## You should be able to just copy the links and paste them when adding sources.
+## You should be able to just copy the links and paste them when adding sources. Alternatively, you can add `filter-bundle.txt` and `filter-optional-bundle.txt` from this repository.
 
 ### If you want to add them to your ad-blocker, please refer to the instructions of said ad-blocker.
 
